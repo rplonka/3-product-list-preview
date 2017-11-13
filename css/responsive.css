@@ -1,0 +1,13 @@
+@media screen and (min-width: 481px) and (max-width: 992px) {
+    #product-list .product {
+        width: 48%;
+        margin: 1%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    #product-list .product {
+        width: 98%;
+        margin: 1%;
+    }
+}
